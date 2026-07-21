@@ -1,0 +1,10 @@
+{
+  "name": "career-copilot",
+  "private": true,
+  "scripts": {
+    "dev": "turbo dev"
+  },
+  "devDependencies": {
+    "turbo": "latest"
+  }
+}
